@@ -91,10 +91,4 @@ The system can be tested through the Main.java file, which demonstrates the core
 - Displaying ticket and customer information
 
 
-## 👤 Author
 
-Ahmed Sofi
-
----
-
-*Last updated: 2025-05-10*
